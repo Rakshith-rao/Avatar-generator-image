@@ -11,7 +11,7 @@ pip install torch numpy matplotlib
 Getting Started
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository.git
+(https://github.com/Rakshith-rao/Avatar-generator-image)
 Run the code:
 
 python main.py
